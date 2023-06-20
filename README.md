@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou Thais Oliveira</h1>
-<h3 align="center">Apaixonado em Ciência e Análise de Dados no mundo digital</h3>
+<h3 align="center">Sou Engenheira Civil mas sou Apaixonada em Ciência e Análise de Dados no mundo digital</h3>
 
-- 🌱Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱Atualmente estou aprendendo **Batabricks, Machine Learning e Java**
 
-- 💬 Me pergunte sobre **Power bi,Python,Excel, SQL e Google Data Studio**
+- 💬 Me pergunte sobre **Power bi,Python,Excel, SQL, Looker Studio, Databricks e Dax Studio**
 
 - 📫 Você me acha através do e-mail **thaysoliver.17@hotmail.com**
 
