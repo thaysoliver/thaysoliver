@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Thais Oliveira</h1>
-<h3 align="center">Sou Engenheira Civil mas sou Apaixonada em Ciência e Análise de Dados no mundo digital</h3>
+<h3 align="center">Sou Engenheira Civil mas sou Apaixonada em Ciência e Data Science no mundo digital</h3>
 
 - 🌱Atualmente estou aprendendo **Batabricks, Machine Learning e Java**
 
